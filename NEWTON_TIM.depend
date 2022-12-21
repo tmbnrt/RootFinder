@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1480683312 source:c:\users\tim\documents\uni\clfe_final\programs\final_program_1\newton_tim\derivative.f90
+
+1486143064 source:c:\users\tim\documents\uni\clfe_final\programs\final_program_1\newton_tim\function.f90
+
+1484551732 source:c:\users\tim\documents\uni\clfe_final\programs\final_program_1\newton_tim\read.f90
+
+1490945362 source:c:\users\tim\documents\uni\clfe_final\programs\final_program_1\newton_tim\scanforroots.f90
+
+1489765032 source:c:\users\tim\documents\uni\clfe_final\programs\final_program_1\newton_tim\scanforrootsmain.f90
+
+1480683312 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-version1\program_project_1\function1\derivative.f90
+
+1493362341 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-version1\program_project_1\function1\function.f90
+
+1484551732 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-version1\program_project_1\function1\read.f90
+
+1489765032 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-version1\program_project_1\function1\scanforrootsmain.f90
+
+1493283668 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-version1\program_project_1\function1\scanforroots.f90
+
+1493362670 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-version1\program_project_1\function1\newton.f90
+
+1480683312 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-edit\program_project_1\function1\derivative.f90
+
+1493362341 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-edit\program_project_1\function1\function.f90
+
+1493362670 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-edit\program_project_1\function1\newton.f90
+
+1493283668 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-edit\program_project_1\function1\scanforroots.f90
+
+1489765032 source:c:\users\tim\desktop\baeck_abgabe\clfe_version2\clfe-wt1617-beinert-edit\program_project_1\function1\scanforrootsmain.f90
+
+1480683312 source:c:\users\tim\desktop\clfe_abgabe_version2\clfe_version2\clfe-wt1617-beinert-version2\program_project_1\function1\derivative.f90
+
+1493362341 source:c:\users\tim\desktop\clfe_abgabe_version2\clfe_version2\clfe-wt1617-beinert-version2\program_project_1\function1\function.f90
+
+1493362670 source:c:\users\tim\desktop\clfe_abgabe_version2\clfe_version2\clfe-wt1617-beinert-version2\program_project_1\function1\newton.f90
+
+1493370630 source:c:\users\tim\desktop\clfe_abgabe_version2\clfe_version2\clfe-wt1617-beinert-version2\program_project_1\function1\read.f90
+
+1493283668 source:c:\users\tim\desktop\clfe_abgabe_version2\clfe_version2\clfe-wt1617-beinert-version2\program_project_1\function1\scanforroots.f90
+
+1489765032 source:c:\users\tim\desktop\clfe_abgabe_version2\clfe_version2\clfe-wt1617-beinert-version2\program_project_1\function1\scanforrootsmain.f90
+

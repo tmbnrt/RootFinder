@@ -1,0 +1,7 @@
+Max_number_of_roots               10
+Lower_bound                       -4. 
+Upper_bound                      +10. 
+Step_width                        0.1
+Precision                         1.e-7 
+Slope_step_width                  0.01 
+Max_number_of_iterations          30 
